@@ -107,7 +107,7 @@ const projects = () => {
                   <Project  title= "FilmOcean" img={FilmOcean}  link="https://deft-klepon-240754.netlify.app" type=" Project" github="https://github.com/Vivekkr7k/FimlOcean" />
                   </div>
                   <div className='col-span-12'>
-                  <FeaturedProject title= "Portfolio Website" img={PortfilioImg} summary="A feature rich Portfolio Website , build using Nextjs with tailwind css and Framer Motion  . This Portfolio  contains 4 pages with beauiful transition effects with the help of Framer motion. " link="/" type="Featured Project" github="/"/>
+                  <FeaturedProject title= "Portfolio Website" img={PortfilioImg} summary="A feature rich Portfolio Website , build using Nextjs with tailwind css and Framer Motion  . This Portfolio  contains 4 pages with beauiful transition effects with the help of Framer motion. " link="/" type="Featured Project" github="https://github.com/Vivekkr7k/Portfolio"/>
                   </div>
                   <div className='col-span-6 sm:col-span-12'>
                   <Project  title= "Carekloud website " img={CarekloudWeb}  link="https://glittery-daifuku-059059.netlify.app" type=" Project" github="https://github.com/Vivekkr7k/Carekloud_webstie" />
