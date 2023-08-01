@@ -98,7 +98,7 @@ const projects = () => {
 
             <div className='grid grid-col-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0'>
                   <div className='col-span-12'>
-                       <FeaturedProject title= "Voting system" img={VotingSystemImg} summary="Block_Votes is the voting system based on blockchain . React js is used with tailwind css and matierial ui for the frontend . Nodejs is used for backend and the votes are secured by the blockchain technology." link="https://neon-moxie-1221fb.netlify.app" type="Featured Project" github="/"/>
+                       <FeaturedProject title= "Voting system" img={VotingSystemImg} summary="Block_Votes is the voting system based on blockchain . React js is used with tailwind css and matierial ui for the frontend . Nodejs is used for backend and the votes are secured by the blockchain technology." link="https://neon-moxie-1221fb.netlify.app" type="Featured Project" github="https://github.com/Vivekkr7k/Block_Votes"/>
                   </div>
                   <div className='col-span-6 sm:col-span-12'>
                     <Project  title= "Netflix Clone" img={NetflixImg}  link="https://quiet-tarsier-a7c36b.netlify.app" type=" Project" github="https://github.com/Vivekkr7k/react-netflix_clone" />

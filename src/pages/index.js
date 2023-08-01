@@ -2,6 +2,7 @@ import Head from "next/head";
 import { Inter } from "next/font/google";
 import Layout from "@/Componets/Layout";
 import Image from "next/image";
+import profilePic from "../../public/images/profile/developer-pic-1.png";
 import selfie from '../../public/images/profile/selfie_bg4.png'
 import Anitmatedtxt from "@/Componets/Anitmatedtxt";
 import Link from "next/link";
